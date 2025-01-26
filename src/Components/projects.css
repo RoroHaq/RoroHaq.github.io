@@ -1,0 +1,50 @@
+
+#on-the-record-pic{
+  width: 500px;
+  height: auto;
+  padding: 10px;
+}
+
+.projects{
+  display: grid;
+
+  gap: 30px;
+}
+.projects h1{
+  text-align: center;
+}
+.project{
+  display: flex;
+  gap: 20px;
+  background-color: #17364a;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+
+#tools-used-1{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  justify-content: center;
+  pointer-events: none;
+}
+
+#tools-used-1 div{
+  border: #D6CC99 solid;
+  border-radius: 15px;
+  color: #D6CC99;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.project h2{
+  text-align: center;
+}
+
+.project.left{
+  flex-direction: row;
+}
+.project.right{
+  flex-direction: row-reverse;
+}
