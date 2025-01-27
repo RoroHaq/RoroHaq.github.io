@@ -7,7 +7,7 @@ export default function Skills(){
     <>
       <div id="skills-container">
         <div id="programming-skills-container">
-          <h2>Programming Languages</h2>
+          <h1>Programming Languages</h1>
           <div id="programming-skills">
               <div>
                 <img src="/icons/icons8-java-50.png" alt="Java Icon"></img>

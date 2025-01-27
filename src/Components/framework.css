@@ -1,14 +1,14 @@
-#programming-skills-container{
+#framework-container{
   text-align: center;
 }
-#programming-skills{
+#frameworks-list{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
   text-align: center;
 }
 
-#sql-image{
-  width: 55px;
-  height: 55px;
+#large-logo{
+  width: 50px;
+  height: 50px;
 }
