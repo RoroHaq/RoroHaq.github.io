@@ -1,5 +1,5 @@
 
-#on-the-record-pic{
+#project-image{
   width: 500px;
   height: auto;
   padding: 10px;
@@ -40,6 +40,10 @@
 
 .project h2{
   text-align: center;
+}
+
+.project.no-img{
+  justify-content: center;
 }
 
 .project.left{
