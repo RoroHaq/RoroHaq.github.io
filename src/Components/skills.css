@@ -1,0 +1,14 @@
+#programming-skills-container{
+  text-align: center;
+}
+#programming-skills{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+#sql-image{
+  width: 55px;
+  height: 55px;
+}

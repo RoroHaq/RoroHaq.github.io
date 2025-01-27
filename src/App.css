@@ -1,6 +1,15 @@
+html, body{
+  background-color: #001524;
+}
 #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
 }
+
+h1, h2, h3, p, li{
+  color: #F9F6EE;
+}
+
+
+

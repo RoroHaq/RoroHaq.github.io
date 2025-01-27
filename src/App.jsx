@@ -1,14 +1,17 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
-
+import Skills from './Components/Skills'
+import Projects from './Components/projects'
+import Top from './Components/Top'
+import Framework from './Components/framework'
+import Tools from './Components/Tools'
 function App() {
   return (
     <>
-      <div>
-        <h1>Safin Haque</h1>
-      </div>
+      <Top/>
+      <Skills/>
+      <Framework/>
+      <Tools/>
+      <Projects/>
     </>
   )
 }

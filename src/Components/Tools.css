@@ -1,0 +1,10 @@
+#tools-container{
+  text-align: center;
+}
+
+#tools-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-align: center;
+}
