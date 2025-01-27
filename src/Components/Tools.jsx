@@ -1,5 +1,5 @@
-
-
+import './Tools.css'
+import '../App.css'
 
 export default function Tools(){
   return (
@@ -12,20 +12,16 @@ export default function Tools(){
               <p>Git</p>
             </div>
             <div>
-              <img src='./icons/icons8-git-50.png'></img>
+              <img id='small-img' src='./icons/icons8-node-js-64.png'></img>
               <p>Node.js</p>
             </div>
             <div>
-              <img src='./icons/icons8-git-50.png'></img>
+              <img src='./icons/icons8-docker-50.png'></img>
               <p>Docker</p>
             </div>
             <div>
-              <img src='./icons/icons8-git-50.png'></img>
+              <img id='small-img' src='./icons/icons8-mongodb-a-cross-platform-document-oriented-database-program-48.png'></img>
               <p>MongoDB</p>
-            </div>
-            <div>
-              <img src='./icons/icons8-git-50.png'></img>
-              <p>Mocha/Chai</p>
             </div>
         </div>
       </div>
