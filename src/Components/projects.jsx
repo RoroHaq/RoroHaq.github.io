@@ -24,6 +24,13 @@ export default function Projects(){
                 <div>Node.js</div>
                 <div>Mocha/Chai</div>
             </div>
+            <div id='project-links'>
+              <a href='https://five20-project-safin-nathan-minh.onrender.com' target='_blank'>
+              <div>
+                Site Link
+              </div>
+              </a>
+            </div>
           </div>
           <div>
               <img id='project-image' src='./project-images/on-the-record.png' alt='On the Record UI'/>

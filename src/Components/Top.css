@@ -38,6 +38,7 @@
 @media (max-width: 800px) {
   #top_container{
     flex-direction: column-reverse;
+    align-items: center;
   }
   #profile_image{
     margin-top:37px;

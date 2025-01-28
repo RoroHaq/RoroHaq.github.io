@@ -11,5 +11,16 @@ h1, h2, h3, p, li{
   color: #F9F6EE;
 }
 
-
+@media (max-width: 800px){
+  *{
+    box-sizing: border-box;
+  }
+  #root{
+    max-width: 100%;
+  }
+  html, body{
+    margin: 0;
+    padding: 0;
+    }
+}
 
