@@ -20,8 +20,6 @@
   padding: 20px;
   border-radius: 10px;
 }
-
-
 #tools-used-1{
   display: flex;
   flex-wrap: wrap;
@@ -38,6 +36,24 @@
   margin-left: 10px;
 }
 
+#project-links{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  padding: 10px;
+  justify-content: center;
+}
+
+#project-links a div{
+  border: #577c5d solid;
+  border-radius: 15px;
+  padding: 10px;
+  margin-left: 10px;
+  text-decoration: none;
+  color: #577c5d;
+}
+
+
 .project h2{
   text-align: center;
 }
@@ -51,4 +67,15 @@
 }
 .project.right{
   flex-direction: row-reverse;
+}
+
+@media (max-width: 800px){
+  .projects{
+    max-width: 100%;
+  }
+  .project.left, .project.right{
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
 }

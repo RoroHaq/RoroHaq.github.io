@@ -24,6 +24,13 @@ export default function Projects(){
                 <div>Node.js</div>
                 <div>Mocha/Chai</div>
             </div>
+            <div id='project-links'>
+              <a href='https://five20-project-safin-nathan-minh.onrender.com' target='_blank'>
+              <div>
+                Site Link
+              </div>
+              </a>
+            </div>
           </div>
           <div>
               <img id='project-image' src='./project-images/on-the-record.png' alt='On the Record UI'/>
@@ -45,6 +52,13 @@ export default function Projects(){
                 <div>Docker</div>
                 <div>HTML/CSS</div>
             </div>
+            <div id='project-links'>
+              <a href='https://gitlab.com/RashedKamal/dw-420w24sec2-prj-grp4-kamal' target='_blank'>
+                <div>
+                  Repo
+                </div>
+              </a>
+            </div>
           </div>
           <div>
               <img id='project-image' src='./project-images/student-teacher-appointment.png' alt='On the Record UI'/>
@@ -65,6 +79,13 @@ export default function Projects(){
                 <div>SQL & PL/SQL</div>
                 <div>JDBC</div>
             </div>
+            <div id='project-links'>
+              <a href='https://gitlab.com/PrabhjotAulakh12345/database2-project' target='_blank'>
+                <div>
+                  Repo
+                </div>
+              </a>
+            </div>
           </div>
         </div>
         <div className='project left no-img'>
@@ -80,6 +101,13 @@ export default function Projects(){
                 <div>C#</div>
                 <div>Avalonia</div>
                 <div>SQLite</div>
+            </div>
+            <div id='project-links'>
+              <a href='https://gitlab.com/SafinHQ13/mondial-munch' target='_blank'>
+                <div>
+                  Repo
+                </div>
+              </a>
             </div>
           </div>
         </div> 
