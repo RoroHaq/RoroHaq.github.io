@@ -6,7 +6,7 @@ export default function Projects(){
   return (
     <>
       <div className='projects'>
-        <h2>Projects</h2>
+        <h1>Projects</h1>
         <div className='project right'>
           <div id='description'>
             <h2>On The Record</h2>

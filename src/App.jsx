@@ -4,6 +4,7 @@ import Projects from './Components/projects'
 import Top from './Components/Top'
 import Framework from './Components/framework'
 import Tools from './Components/Tools'
+import Footer from './Components/footer'
 function App() {
   return (
     <>
@@ -12,6 +13,7 @@ function App() {
       <Framework/>
       <Tools/>
       <Projects/>
+      <Footer/>
     </>
   )
 }
