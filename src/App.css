@@ -11,6 +11,13 @@ h1, h2, h3, p, li{
   color: #F9F6EE;
 }
 
+h1, h2, h3{
+  font-family: 'Montserrat';
+}
+
+p, li {
+  font-family: 'Lora'
+}
 @media (max-width: 800px){
   *{
     box-sizing: border-box;
