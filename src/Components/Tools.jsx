@@ -5,7 +5,7 @@ export default function Tools(){
   return (
     <>
       <div id='tools-container'>
-        <h1>Tools & Tech</h1>
+        <h2>Tools & Tech</h2>
         <div id='tools-list'>
             <div>
               <img src='./icons/icons8-git-50.png'></img>
