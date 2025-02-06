@@ -5,7 +5,7 @@ export default function Framework(){
   return (
     <>
     <div id='framework-container'>
-      <h1>Frameworks & Libraries</h1>
+      <h2>Frameworks & Libraries</h2>
       <div id='frameworks-list'>
         <div>
           <img src='./icons/icons8-react-64.png'></img>

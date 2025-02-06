@@ -6,7 +6,7 @@ export default function Projects(){
   return (
     <>
       <div className='projects'>
-        <h1>Projects</h1>
+        <h2>Projects</h2>
         <div className='project right'>
           <div id='description'>
             <h2>On The Record</h2>
@@ -27,7 +27,7 @@ export default function Projects(){
             <div id='project-links'>
               <a href='https://five20-project-safin-nathan-minh.onrender.com' target='_blank'>
               <div>
-                Site Link
+                Live Demo
               </div>
               </a>
             </div>
@@ -71,7 +71,7 @@ export default function Projects(){
             <ul>
               <li>A Java Console Application using JDBC/SQL in which you traverse a superstore as either a client or admin.</li>
               <li>Contribute on Normalizing our Table, create packages for our procedures using PL/SQL, 
-                as well as making middlewear functions using JDBC.</li>
+                as well as making middleware functions using JDBC.</li>
               <li>Implement Front-End Console Application for the Client side, connecting the middlewear.</li>
             </ul>
             <div id='tools-used-1'>
